@@ -1,4 +1,4 @@
-🔗 Live App: [Goal Planner AI Agent](https://app-gemini-storyteller.streamlit.app/)
+🔗 Live App: [Story teller ](https://app-gemini-storyteller.streamlit.app/)
 
 
 
